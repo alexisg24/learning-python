@@ -28,3 +28,8 @@ while True:
         else:
             print('No se selecciono un operador valido.')
             break
+
+        if input('¿Desea salir? (y / n): ').lower() == 'y':
+            break
+        NUMERO_1 = False
+        NUMERO_2 = False
