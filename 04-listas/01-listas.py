@@ -8,4 +8,4 @@ ceros = [0, 1] * 10
 alfanumerico = numeros + letras
 rango = list(range(1, 11))
 chars = list('chanchito')
-print(chars)
+print(alfanumerico, chars)
